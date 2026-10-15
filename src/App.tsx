@@ -101,8 +101,8 @@ const LINKS: LinkItem[] = [
   {
     id: 'call',
     label: 'Call the Store',
-    sub: '+94 11 268 4851',
-    href: 'tel:+94112684851',
+    sub: '+94 75 740 0800',
+    href: 'tel:+94757400800',
     icon: <Phone size={24} />,
     tone: 2
   },
