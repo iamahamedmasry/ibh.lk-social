@@ -30,7 +30,7 @@ const USER_DATA = {
   role: 'Islamic Book House · Readers’ Paradise',
   bio: 'Sri Lanka’s trusted home for Islamic books since 1968. Explore over 16,000 titles in Arabic, English, Sinhala and Tamil, along with school textbooks, stationery and more, all under one roof in Maradana, Colombo.',
   location: 'Maradana, Colombo',
-  avatar: 'Logo.webp',
+  avatar: 'https://github.com/iamahamedmasry/ibh.lk-social/blob/main/Logo.webp',
   email: 'support@ibh.lk',
   phone: '+94112684851',
   address: '77 Sri Vajiragnana Mawatha, Colombo 10'
