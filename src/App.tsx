@@ -32,7 +32,7 @@ const USER_DATA = {
   location: 'Maradana, Colombo',
   avatar: 'https://raw.githubusercontent.com/iamahamedmasry/ibh.lk-social/main/Logo.webp',
   email: 'support@ibh.lk',
-  phone: '+94112684851',
+  phone: '+94757400800',
   address: '77 Sri Vajiragnana Mawatha, Colombo 10'
 };
 
